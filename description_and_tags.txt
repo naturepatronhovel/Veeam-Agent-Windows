@@ -1,0 +1,30 @@
+============================================================
+  GITHUB REPOSITORY — DESCRIPTION & TOPICS
+============================================================
+
+DESCRIPTION:
+------------------------------------------------------------
+Veeam Agent for Windows — free backup for Windows PCs and servers with cloud and local targets. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.
+
+============================================================
+
+TOPICS / TAGS:
+------------------------------------------------------------
+data-tools
+disk-tools
+free-backup
+veeam
+veeam-agent-2026
+veeam-agent-download
+veeam-agent-windows
+veeam-agent-windows-2026
+veeam-agent-windows-download
+veeam-backup
+windows-server-backup
+windows-tools-2026
+
+============================================================
+
+SEO KEYWORDS:
+------------------------------------------------------------
+veeam agent for windows, veeam agent for windows download, veeam agent for windows 2026, veeam agent windows, veeam backup, veeam agent download, veeam agent 2026, windows server backup, free backup, free software 2026, pc software download
